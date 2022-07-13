@@ -31,3 +31,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## 📄 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+<br />
