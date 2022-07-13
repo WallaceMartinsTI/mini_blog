@@ -1,7 +1,7 @@
 # Mini Blog
 
 ## 💻 Project
-MiniBlog, project carried out by Professor Matheus Battisti's React course from [Hora de Codar](https://www.horadecodar.com.br/), which I was able to learn a lot about React. I also learned how to use various hooks like useMemo, useRef, useReducer, I also learned how to create custom hooks, in addition to using Firebase in the backend. See the project by [clickng here](https://youtu.be/6WYq5CgbIE8).
+MiniBlog, project carried out by Professor Matheus Battisti's React course from [Hora de Codar](https://www.horadecodar.com.br/), which I was able to learn a lot about React. I also learned how to use various hooks like useMemo, useRef, useReducer, I also learned how to create custom hooks, in addition to using Firebase in the backend. [Click here](https://youtu.be/6WYq5CgbIE8) to see the project on YouTube.
 
 ## ✨ Technologies used
 - React 
